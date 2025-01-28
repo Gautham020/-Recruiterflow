@@ -73,7 +73,6 @@ http://localhost:5173/
 ````
 
 ## Screenshots
-``
 
-(https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png)
+![Project Screenshot]("https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png")
 
