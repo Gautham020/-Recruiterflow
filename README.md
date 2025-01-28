@@ -74,5 +74,5 @@ http://localhost:5173/
 
 ## Screenshots
 
-![Project Screenshot]("public/Home.png")
+<p align="center"><img src="https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png" alt="project-image"></p>
 
