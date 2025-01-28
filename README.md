@@ -1,8 +1,79 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Card Management App (Assignment)
 
-Currently, two official plugins are available:
+A React-based Card Management Application created as part of a company assignment. The app demonstrates CRUD operations with a mock API, focusing on clean, responsive UI design and robust functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+ 
+
+---
+
+## Tech Stack  
+**Frontend**: React.js  
+**HTTP Requests**: Axios  
+**Mock API**: [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts)  
+**Styling**: Tailwind CSS  
+
+---
+
+## Run Locally  
+
+1. Clone the repository:  
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+
+## API Reference
+
+#### Get all items
+
+```http
+ (https://jsonplaceholder.typicode.com/posts)
+```
+
+
+
+
+
+
+## Installation
+
+Install my-project with npm
+
+```npm
+npm create vite@latest
+  cd -Recruiterflow
+  npm Install
+```
+    
+## Deployment
+
+### To deploy this project run
+
+```bash
+  npm run deploy
+```
+### Open the app in your browser:
+
+```
+http://localhost:5173/
+
+
+
+```
+## Features 
+````
+- Fetch a list of cards from a mock API on initial load.  
+- Add new cards dynamically with unique IDs.  
+- Delete selected cards from the list.  
+- Fully responsive UI built with Tailwind CSS.  
+- Graceful error handling and user-friendly feedback. 
+````
+
+## Screenshots
+``
+
+(https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png)
+
