@@ -74,5 +74,5 @@ http://localhost:5173/
 
 ## Screenshots
 
-![Project Screenshot]("https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png](https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png?raw=true")
+![Project Screenshot]("[https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png])
 
