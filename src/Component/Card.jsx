@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const Card = ({ title, description,id, onDelete }) => {
+const Card = ({ title, description, id, onDelete }) => {
   const [isHovered, setIsHovered] = useState(false);
 
   return (
@@ -10,7 +10,6 @@ const Card = ({ title, description,id, onDelete }) => {
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
-
       <h3 className="text-xl font-bold text-gray-800 mb-2">{id}</h3>
       <h3 className="text-xl font-bold text-gray-800 mb-2">{title}</h3>
       <p className="text-gray-600">{description}</p>
