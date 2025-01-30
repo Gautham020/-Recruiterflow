@@ -74,5 +74,5 @@ http://localhost:5173/
 
 ## Screenshots
 
-<p align="center"><img src="https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Home.png" alt="project-image"></p>
+<p align="center"><img src="https://github.com/Gautham020/-Recruiterflow/blob/Main/public/Screenshot%202025-01-30%20154912.png" alt="project-image"></p>
 
