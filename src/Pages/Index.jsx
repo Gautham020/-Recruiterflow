@@ -65,8 +65,8 @@ function Index() {
           onClick={handleAdd}
           className={`px-6 py-3 text-lg font-semibold rounded-lg shadow-md transition-all duration-300 ease-in-out ${
             loading
-              ? "bg-gray-400 cursor-not-allowed"
-              : "bg-blue-600 hover:bg-blue-700 text-white"
+              ? "bg-blue-700 cursor-not-allowed"
+              : "bg-[#77CDFF] hover:bg-blue-700 text-white"
           }`}
           disabled={loading}
         >
