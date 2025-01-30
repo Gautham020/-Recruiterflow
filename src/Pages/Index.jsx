@@ -56,15 +56,17 @@ function Index() {
   return (
     <div className="App">
       <Header />
-
-      <div className="p-6 bg-gray-100 rounded-lg shadow-md">
-        <h2 className="text-xl font-bold mb-4">Add New Card</h2>
+      <div className="p-6 bg-white rounded-lg shadow-lg border border-gray-300 max-w-md mx-auto text-center mt-5">
+        <h2 className="text-2xl font-semibold text-gray-700 mb-4">
+          Create New Card
+        </h2>
+        <p className="text-gray-500 mb-6">Click below to add a new card.</p>
         <button
           onClick={handleAdd}
-          className={`px-4 py-2 rounded ${
+          className={`px-6 py-3 text-lg font-semibold rounded-lg shadow-md transition-all duration-300 ease-in-out ${
             loading
-              ? "bg-gray-400 cursor-not-allowed"
-              : "bg-blue-500 hover:bg-blue-600 text-white"
+              ? "bg-blue-700 cursor-not-allowed"
+              : "bg-[#77CDFF] hover:bg-blue-700 text-white"
           }`}
           disabled={loading}
         >
